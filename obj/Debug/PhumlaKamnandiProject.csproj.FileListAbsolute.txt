@@ -1,0 +1,4 @@
+C:\Users\Sakhile Mjiyakho\PhumlaKamnandiProject\obj\Debug\PhumlaKamnandiProject.csproj.AssemblyReference.cache
+C:\Users\Sakhile Mjiyakho\PhumlaKamnandiProject\obj\Debug\PhumlaKamnandiProject.Properties.Resources.resources
+C:\Users\Sakhile Mjiyakho\PhumlaKamnandiProject\obj\Debug\PhumlaKamnandiProject.csproj.GenerateResource.cache
+C:\Users\Sakhile Mjiyakho\PhumlaKamnandiProject\obj\Debug\PhumlaKamnandiProject.csproj.CoreCompileInputs.cache
